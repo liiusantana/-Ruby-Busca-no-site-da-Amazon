@@ -1,7 +1,10 @@
 # Desafio_W
 Neste repositório estão as respostas do Teste.
+
 Editor de código usado: Visual Studio Code
+
 Linguagem de programação: Ruby
+
 Tool(s): Cucumber
 
 
