@@ -1,5 +1,8 @@
 # Desafio_W
-Neste repositório estão as respostas do desafio.
+Neste repositório estão as respostas do Teste.
+Editor de código usado: Visual Studio Code
+Linguagem de programação: Ruby
+Tool(s): Cucumber
 
 
 Session 1 - Programming Logic
