@@ -1,4 +1,4 @@
-# Desafio_W
+# Teste_W
 Neste repositório estão as respostas do Teste.
 
 Editor de código usado: Visual Studio Code
