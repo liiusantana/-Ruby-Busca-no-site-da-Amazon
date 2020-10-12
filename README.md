@@ -1,7 +1,9 @@
 #Teste de Busca no site da Amazon
 
 Editor de código usado: Visual Studio Code 
+
 Linguagem de programação: Ruby
+
 Tool(s): Cucumber
 
 Automatizando o caso de teste abaixo, utilizando BDD:
