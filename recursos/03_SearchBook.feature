@@ -4,7 +4,7 @@
     Feature:  Search Book 
         Search a book in website Amazon.
 
-    Scenario: W Brazil QA Test
+    Scenario:  Busca no site da Amazon
 
         Given I navigate to www.amazon.com
         When I select the option “Books” in the dropdown next to the search text input criteria.
