@@ -30,7 +30,7 @@ When I reach the detailed book page, I check if the name in the header is the sa
 
 Cenário: Realizar Busca no site da Amazon
 
-Dado eu navegar para “ www.amazon.com” .
+Dado que eu navego no site para “ www.amazon.com” .
 
 Quando seleciono a opção “Livros” na lista suspensa ao lado dos critérios de entrada de texto de pesquisa.
 
