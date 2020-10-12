@@ -28,6 +28,18 @@ When I reach the detailed book page, I check if the name in the header is the sa
 
 #PT
 
+Cenário: Realizar Busca no site da Amazon
+
+Dado eu navegar para “ www.amazon.com” .
+
+Quando seleciono a opção “Livros” na lista suspensa ao lado dos critérios de entrada de texto de pesquisa.
+
+Então eu procuro por “automação de teste”.
+
+E eu seleciono o livro mais barato da página, sem usar nenhum método de classificação disponível.
+
+Quando chego à página do livro detalhado, verifico se o nome do cabeçalho é o mesmo nome do livro que selecionei anteriormente.
+
 
 
 
