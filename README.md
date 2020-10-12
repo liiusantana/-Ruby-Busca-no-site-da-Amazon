@@ -13,6 +13,7 @@ Tool(s): Cucumber
 Automatizando o caso de teste abaixo, utilizando BDD:
 
 #EN
+
 Scenario : Realizar Busca no site da Amazon
 
 Given I navigate to “www.amazon.com”.
@@ -26,5 +27,8 @@ And I select the cheapest book of the page without using any sorting method avai
 When I reach the detailed book page, I check if the name in the header is the same name of the book that I select previously.
 
 #PT
+
+
+
 
 
